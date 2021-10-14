@@ -1,0 +1,15 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+Flask==2.0.1
+idna==3.2
+inflect==5.3.0
+itsdangerous==2.0.1
+Jinja2==3.0.1
+MarkupSafe==2.0.1
+num2words==0.5.10
+numpy==1.21.2
+protobuf==3.18.0
+quantulum3==0.7.9
+requests==2.26.0
+stanza==1.2.3
+torch==1.9.1
+
