@@ -1,4 +1,8 @@
--f https://download.pytorch.org/whl/torch_stable.html
+certifi==2021.5.30
+charset-normalizer==2.0.6
+click==8.0.1
+colorama==0.4.4
+docopt==0.6.2
 Flask==2.0.1
 idna==3.2
 inflect==5.3.0
@@ -12,4 +16,7 @@ quantulum3==0.7.9
 requests==2.26.0
 stanza==1.2.3
 torch==1.9.1
-
+tqdm==4.62.3
+typing-extensions==3.10.0.2
+urllib3==1.26.7
+Werkzeug==2.0.1
